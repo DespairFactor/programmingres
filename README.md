@@ -1,3 +1,15 @@
+## Linux Shell Scripting/Commands ##
+
+***Best Linux Cheat Sheets*** - https://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/
+
+***Common Linux Commands*** - http://www.pixelbeat.org/cmdline.html
+
+***Beginner's Guide to Scripting*** - https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/
+
+***Shell Scripting Tutorial(shellscript.sh)*** - https://www.shellscript.sh/
+
+***Linux Shell Scripting Tutorial(freeos)*** - http://www.freeos.com/guides/lsst/
+
 ## Version Control ##
 
 ### SVN ###
