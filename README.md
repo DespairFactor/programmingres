@@ -134,6 +134,12 @@
 
 ***Google's Python Class*** - https://developers.google.com/edu/python/
 
+***The Python Tutorial*** - https://docs.python.org/3/tutorial/index.html
+
+***Learn Python(The Python Guru)*** - http://thepythonguru.com/
+
+***Learn Python(LearnPython)*** - http://www.learnpython.org/
+
 ## C# ##
 
 ***C# Programming Guide*** - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index
